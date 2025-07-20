@@ -1,1 +1,2 @@
-# blockbuddy-wiki
+# 👋 Welcome to BlockBuddy Wiki
+
